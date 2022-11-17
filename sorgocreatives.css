@@ -10,47 +10,39 @@
 }
 
 .artists_page {
-
+	text-decoration: none;
 	position: absolute;
 	left: 25px;
 	top: 23px;
 	font-size: 19px;
 	font-family: Courier New;
-	text-decoration: none;
 }
 
 .gallery_page {
-
+	text-decoration: none;
 	position: absolute;
 	right: 25px;
 	top: 23px;
 	font-size: 19px;
 	font-family: Courier New;
-	text-decoration: none;
-
 }
 
 .links_page {
-
+	text-decoration: none;
 	position: absolute;
 	left: 25px;
 	bottom: 23px;
 	font-size: 19px;
 	font-family: Courier New;
-	text-decoration: none;
-
 }
 
 .support_page {
-
+	text-decoration: none;
 	position: absolute;
 	right: 25px;
 	bottom: 23px;
 	font-size: 19px;
 	font-family: Courier New;
-	text-decoration: none;
-
-
 }
 
 .about_content {
@@ -61,11 +53,9 @@
   	align-items: center;
   	text-align: center;
   	min-height: 100vh;
-
-    font-family: Courier New;
-    font-size: 27px;
-    text-decoration: none;
-
+    	font-family: Courier New;
+    	font-size: 27px;
+    	text-decoration: none;
 }
 
 
