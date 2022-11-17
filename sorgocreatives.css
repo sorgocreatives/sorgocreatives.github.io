@@ -1,0 +1,88 @@
+img {
+	width: 525px;
+	height: 525px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.menuHome {
+
+	position: absolute;
+	left: 25px;
+	top: 23px;
+	font-size: 19px;
+	font-family: Courier New;
+	text-decoration: none;
+}
+
+.menuArtists {
+
+	position: absolute;
+	right: 25px;
+	top: 23px;
+	font-size: 19px;
+	font-family: Courier New;
+	text-decoration: none;
+
+}
+
+.menuGallery {
+
+	position: absolute;
+	left: 25px;
+	bottom: 23px;
+	font-size: 19px;
+	font-family: Courier New;
+	text-decoration: none;
+
+}
+
+.menuLink {
+
+	position: absolute;
+	right: 25px;
+	bottom: 23px;
+	font-size: 19px;
+	font-family: Courier New;
+	text-decoration: none;
+
+
+}
+
+.about_content {
+
+	display: flex;
+ 	flex-direction: column;
+  	justify-content: center;
+  	align-items: center;
+  	text-align: center;
+  	min-height: 100vh;
+
+    font-family: Courier New;
+    font-size: 27px;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
