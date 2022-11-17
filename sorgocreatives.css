@@ -10,7 +10,7 @@
 }
 
 .artists_page {
-	text-decoration: none;
+	a:visited: text-decoration: none;
 	position: absolute;
 	left: 25px;
 	top: 23px;
