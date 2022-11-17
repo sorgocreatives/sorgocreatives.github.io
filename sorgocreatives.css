@@ -5,7 +5,7 @@
 	height: 50px;
 }
 
-.menuHome {
+.artists-page {
 
 	position: absolute;
 	left: 25px;
@@ -15,7 +15,7 @@
 	text-decoration: none;
 }
 
-.menuArtists {
+.gallery-page {
 
 	position: absolute;
 	right: 25px;
@@ -26,7 +26,7 @@
 
 }
 
-.menuGallery {
+.links-page {
 
 	position: absolute;
 	left: 25px;
@@ -37,7 +37,7 @@
 
 }
 
-.menuLink {
+.support-page {
 
 	position: absolute;
 	right: 25px;
