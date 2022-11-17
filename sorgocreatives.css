@@ -5,7 +5,7 @@
 	height: 50px;
 }
 
-.artists-page {
+.artists_page {
 
 	position: absolute;
 	left: 25px;
@@ -15,7 +15,7 @@
 	text-decoration: none;
 }
 
-.gallery-page {
+.gallery_page {
 
 	position: absolute;
 	right: 25px;
@@ -26,7 +26,7 @@
 
 }
 
-.links-page {
+.links_page {
 
 	position: absolute;
 	left: 25px;
@@ -37,7 +37,7 @@
 
 }
 
-.support-page {
+.support_page {
 
 	position: absolute;
 	right: 25px;
