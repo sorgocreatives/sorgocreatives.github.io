@@ -1,5 +1,10 @@
 .logo {
-	text-allign: center;
+	width: 100%;
+  	height: 300px;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	flex-direction: column;
 }
 
 .artists_page {
