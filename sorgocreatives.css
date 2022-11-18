@@ -1,3 +1,7 @@
+a:visited {
+	text-decoration: none; 
+}
+
 .logo_src {
 	display: block;
   	text-allign: center;
