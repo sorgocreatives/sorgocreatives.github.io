@@ -1,16 +1,10 @@
 .logo {
 	display: block;
-	margin-left: 50%;
-	margin-right; 50%;
-	width: 50%;
-	padding-top: 7px;
-    	padding-right: 22px;
-    	padding-bottom: 21px;
-    	padding-left: 22px;
+	margin: auto;
 }
 
 .artists_page {
-	a:visited: text-decoration: none;
+	text-decoration: none;
 	position: absolute;
 	left: 25px;
 	top: 23px;
