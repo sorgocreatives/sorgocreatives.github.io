@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
   
-  cout << "SORGO CREATIVES" << endl;
+    cout << "SORGO CREATIVES" << endl;
   
-  return 0;
+    return 0;
 }
