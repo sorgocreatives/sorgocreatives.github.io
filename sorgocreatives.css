@@ -1,12 +1,24 @@
-a:visited {
-	text-decoration: none; 
+body {
+    width: 90%;
+    margin: 0 auto;
 }
 
-.logo_src {
-	display: block;
-  	text-allign: center;
+header {
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #b5b5b5;
 }
 
+.logo-row {
+    width: 250px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
 .artists_page {
 	text-decoration: none;
 	position: absolute;
