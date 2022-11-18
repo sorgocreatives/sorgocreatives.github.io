@@ -1,11 +1,3 @@
-.logo {
-	width: 100%;
-  	height: 300px;
-  	display: flex;
-  	justify-content: center;
-  	align-items: start;
-  	flex-direction: column;
-}
 
 .artists_page {
 	text-decoration: none;
