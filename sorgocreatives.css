@@ -1,6 +1,7 @@
 .logo {
-	display: block;
-	margin: auto;
+	display: inline-block;
+    	height: 100%;
+    	vertical-align: middle;
 }
 
 .artists_page {
