@@ -97,3 +97,9 @@ header {
 	font-size: 11px;
 	text-align: center;
 }
+
+footer {
+        margin: 20px auto;
+        text-align: center;
+}
+        
