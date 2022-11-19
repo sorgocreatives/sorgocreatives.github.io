@@ -54,7 +54,12 @@ header {
 	font-size: 19px;
 	font-family: Courier New;
 }
-/*
+
+.new_music {
+	font-family: Courier New;
+	font-size: 33px;
+}
+
 .about_content {
 
 	display: flex;
@@ -69,7 +74,7 @@ header {
 }
 
 
-*/
+
 
 
 
