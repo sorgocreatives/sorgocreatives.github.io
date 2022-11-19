@@ -62,6 +62,12 @@ header {
 	text-allign: left;
 }
 
+div.gallery {
+  	margin: 5px;
+  	border: 1px solid #ccc;
+  	float: left;
+  	width: 180px;
+}
 .about_content {
 
 	display: flex;
