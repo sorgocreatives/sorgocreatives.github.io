@@ -70,8 +70,10 @@ div.new_music_gallery {
 }
 
 div.new_music_gallery img {
-  width: 100%;
-  height: auto;
+	width: 100%;
+  	height: auto;
+	float: left;
+
 }
 .about_content {
 
