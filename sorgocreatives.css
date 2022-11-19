@@ -99,7 +99,8 @@ header {
 }
 
 footer {
-        margin: 20px auto;
+        padding: 3px;
         text-align: center;
+        background-color: DarkSalmon;
 }
         
