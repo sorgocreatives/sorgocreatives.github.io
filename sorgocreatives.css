@@ -6,6 +6,7 @@ body {
 header {
     margin-top: 20px;
     padding-bottom: 10px;
+    padding-top: 10px;
     border-bottom: 2px solid #b5b5b5;
 }
 
@@ -16,7 +17,7 @@ header {
 
 .logo {
     width: 100%;
-    height: 150px;
+    height: 100px;
     text-align: center;
 }
 .artists_page {
@@ -58,6 +59,7 @@ header {
 .new_music {
 	font-family: Courier New;
 	font-size: 33px;
+	text-allign: left;
 }
 
 .about_content {
