@@ -1,14 +1,14 @@
 body {
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
 }
 
 header {
+	background-color: #ccc;
     margin-top: 20px;
     padding-bottom: 10px;
     padding-top: 10px;
     border-bottom: 2px solid #b5b5b5;
-    background-color: #ccc
 }
 
 .logo-row {
@@ -45,8 +45,8 @@ header {
 .links_page {
 	text-decoration: none;
 	position: absolute;
-	left: 25px;
-	bottom: 23px;
+	left: 175px;
+	top: 23px;
 	font-size: 19px;
 	font-family: Courier New;
 }
@@ -54,8 +54,8 @@ header {
 .support_page {
 	text-decoration: none;
 	position: absolute;
-	right: 25px;
-	bottom: 23px;
+	right: 175px;
+	top: 23px;
 	font-size: 19px;
 	font-family: Courier New;
 }
@@ -65,10 +65,12 @@ header {
 	font-family: Courier New;
 	font-size: 33px;
 	text-align: left;
+	margin-left: 25px;
 }
 
 .tania_allen {
-	margin-right: 33px;
+	margin-left: 25px;
+	margin-right: 25px;
 
   	float: left;
   	width: 180px;
@@ -81,7 +83,7 @@ header {
 }
 
 .ydiany {
-	margin-right: 33px;
+	margin-right: 25px;
   	float: left;
   	width: 180px;
 }
@@ -98,9 +100,12 @@ header {
 	text-align: center;
 }
 
-footer {
-        padding: 3px;
-        text-align: center;
-        background-color: DarkSalmon;
+#footer {
+
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+    text-align: center;
+    background-color: #ccc;
+    font-family: Courier New;
 }
-        
