@@ -62,11 +62,16 @@ header {
 	text-allign: left;
 }
 
-div.gallery {
+div.new_music_gallery {
   	margin: 5px;
   	border: 1px solid #ccc;
   	float: left;
   	width: 180px;
+}
+
+div.new_music_gallery img {
+  width: 100%;
+  height: auto;
 }
 .about_content {
 
