@@ -1,3 +1,41 @@
-layout: page
-title: "gallery"
-permalink: https://sorgocreatives.github.io/gallery
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SORGO CREATIVES</title>
+		<link rel="stylesheet" href="sorgocreatives.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=0.5, user-scalable=0, viewport-fit=cover">
+		<meta name="author" content="Zack McDougal">
+		<div class= "row">
+			<div class ="logo_row">
+				<img src="sorgo-logo-vector.svg" alt="sorgo" class="logo">
+			</div>
+		</div>
+	</head>
+
+	<body>
+		<div class="centermenu">
+			<ul>
+				<li>
+					<a href="sorgocreatives.com" title>Home</a>
+				</li>
+				<li>
+					<a href="sorgocreatives.com" title>Artists</a>
+				</li>
+				<li>
+					<a href="sorgocreatives.com" title>Gallery</a>
+				</li>
+				<li>
+					<a href="sorgocreatives.com" title>Support</a>
+				</li>
+			</ul>
+		</div>		
+		<div class = "content" id = "main">
+		</div>
+    
+		<div id="footer">
+            <footer>
+                    <p>Copyright &copy; 2022 SORGO LLC</p>
+            </footer>
+        </div>                
+	</body>
+</html>
